@@ -6,7 +6,29 @@ With number of files being used on the system increasing everyday, it becomes al
 1. Arrange the file into respective folders on the basis of the extension. (Videos, Music, Document, Pictures)
 2. Arrange the file into respective folders on the basis of the content. 
 3. Arrange the file into respective folder as per the user’s requirement. 
-![](1.jpg)
+
+![](1.png)
+
+Sample Vocabulary used for content classification : 
+![](vocab.png)
+
+<b><h3>Outputs :</h3></b>
+sortIT in action : 
+![](2.gif)
+
+Sequence of outputs : 
+1. Cluttered Directory :
+![](cluttered.png)
+
+2. Folders created automatically :
+![](sorted.png)
+
+3. Sorted on the basis of Content :
+![](content.png)
+
+4. Sorted on the basis of Extension :
+![](extension.png)
+
 
 <b><h3>Future Scope :</h3></b>
 This program can be integrated as an Operating system feature in Windows or Mac OS and can be extended as an option in drop down menu as ‘Folders by Content’ or ‘Folders by Extension’. By just a click of button the directory will be sorted and arranged automatically in less than a minute. 
