@@ -29,6 +29,7 @@ Sequence of outputs :
 4. Sorted on the basis of Extension :
 ![](extension.png)
 
+<b><h3>Copyright :Received a copyright(4537/2019-CO/SW)for the same.</h3></b>
 
 <b><h3>Future Scope :</h3></b>
 This program can be integrated as an Operating system feature in Windows or Mac OS and can be extended as an option in drop down menu as ‘Folders by Content’ or ‘Folders by Extension’. By just a click of button the directory will be sorted and arranged automatically in less than a minute. 
